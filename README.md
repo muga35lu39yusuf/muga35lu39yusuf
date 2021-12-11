@@ -1,6 +1,8 @@
 ### Hi there am yusuf mugalu 👋
 
 ##### Welcome to my Github profile."Thank you for visiting"
+I am a full stack web developer speciliasing in javasccript,nodejs,Reactjs,python,Ruby,Ruby on rails.
+An open source Lover.
 
 #### Languages and Technologies
 #### Social Media
