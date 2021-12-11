@@ -2,7 +2,9 @@
 
 ##### Welcome to my Github profile."Thank you for visiting"
 
-### Languages and Technologies
+#### Languages and Technologies
+#### Social Media
+#### Reach out to Me
 
 <!--
 **muga35lu39yusuf/muga35lu39yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
