@@ -1,5 +1,7 @@
 ### Hi there am yusuf mugalu 👋
 
+##### Welcome to my Github profile."Thank you for visiting"
+
 <!--
 **muga35lu39yusuf/muga35lu39yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
